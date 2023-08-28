@@ -5,7 +5,12 @@ title: Monika's Blog
 
 <style>
     img {
-        width: 20rem;
+        width: 10em;
+    }
+
+    .blogtitle {
+        position: relative;
+        width: 20vw;
     }
 
     .divider {
@@ -34,9 +39,9 @@ title: Monika's Blog
     }
 
     header {
+        display:inline;
         border-bottom: none;
-        padding: 5px;
-        margin: 5px;
+        height: 1vh;
     }
 
     body {
@@ -57,25 +62,28 @@ title: Monika's Blog
     }
 </style>
 
+<h1 class="blogtitle"> <b>Monika's Blog :3</b> </h1>
+
 <div class="divider"></div>
 
-<center><h1> <b>Monika's Blog :3</b> </h1></center>
-
----
 # About Me
 
-> ! UNFINISHED !
 My name is Monika, at the time of writing I am 16 years old. I was born in Cali, but left for five years. I spend most of my free time playing video games, talking to friends, and programming.
 
-Current interests:
- - Destiny 2
- - Linux
- - Politics (dw I try to avoid talking about it)
- - The nim programming language
- - Futurama
- - Valorant (kinda)
- - Geometry Dash
+# Current interests:
+ > Destiny 2
+
+ > Linux
+
+ > Politics (dw I try to avoid talking about it)
+
+ > The nim programming language
+
+ > Futurama
+
+ > Valorant (kinda)
+
+ > Geometry Dash
 
 # My pic from day 1
 > ![poorly drawn image that describes me](IMG_2828.jpg)
----
